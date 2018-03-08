@@ -1,0 +1,178 @@
+# Xml-Modeling
+<animals>
+<mammal>
+<bear>
+<polarbear>
+<Jim age="40" weight="400"></Jim>
+</polarbear>	
+<brownbear>
+<John age="30" weight="300"></John>
+</brownbear>
+<sunbear>
+<Sunny age="20" weight="250"></Sunny>
+</sunbear>
+</bear>
+<dog>
+<bulldog>
+<Adam age="2" weight="40"></Adam>
+</bulldog>
+<beagle>
+<Coco age="5" weight="60"></Coco>
+</beagle>
+<hound>
+<Sparky age="7" weight="80"></Sparky>
+</hound>
+</dog>
+<cat>
+<birman>
+<Mr.Meow age="1" weight="30"></Mr.Meow>
+</birman>	
+<bombay>
+<Spike age="2" weight="40"></Spike>
+</bombay>
+<bengal>
+<Fuzzy age="8" weight="80"></Fuzzy>
+</bengal>
+</cat>
+</mammal>
+<bird>
+<duck>
+<mallard>
+<Quack age="3" weight="35"></Quack>
+</mallard>		
+<alabioduck>
+<Wrap age="4" weight="40"></Wrap>
+</alabioduck>
+<marbledduck>
+<Marbe age="1" weight="25"></Marbe>
+</marbleduck>
+</duck>
+<eagle>
+<baldeagle>
+<Corl age="12" weight="50"></Corl>
+</baldeagle>
+<goldeneagle>
+<Goldy age="5" weight="45"></Goldy>
+</goldeneagle>
+<blackeagle>
+<Dark age="3" weight="35"></Dark>
+</blackeagle>
+</eagle>
+<gull>
+<littlegull>
+<Tiny age="6" weight="15"></Tiny>
+</littlegull>
+<commongull>
+<Lucky age="9" weight="19"></Lucky>
+</commongull>
+<kelpgull>
+<Kelp age="11" weight="23"><Kelp>
+</kelpgull>
+</gull>
+</bird>
+<fish>
+<shark>
+<sawshark>
+<Mr.Saw age="20" weight="120"><Mr.Saw>
+</sawshark>
+<angleshark>
+<Angle age="14" weight="150"><Angle>
+</angleshark>
+<sandshark>
+<Creeper age="16" weight="175"><Creeper>
+</sandshark>
+</shark>
+<seabass>
+<bluespottedseabass>
+<Mr.Blue age="35" weight="220"><Mr.Blue>
+</bluespottedseabass>
+<blackseabass>
+<Bakus age="40" weight="86"><Bakus>
+</blackseabass>
+<chileanseabass>
+<Chile age="24" weight="98"><Chile>
+</chileanseabass>
+</seabass>
+<catfish>
+<corycatfish>
+<Fry age="26" weight="91"><Fry>
+</corycatfish>
+<sharkcatfish>
+<Scare age="21" weight="41"><Scare>
+</sharkcatfish>
+<clarias>
+<Clarus age="13" weight="52"><Clarus>
+</clarias>	
+</catfish>
+</fish>
+<amphibian>
+<frog>
+<glassfrog>
+<Clear age="3" weight="12"><Clear>
+</glassfrog>
+<truetoad>
+<Truth age="2" weight="11"><Truth>
+</truetoad>
+<hylidae>
+<Hyde age="1" weight="15"><Hyde>
+</hylidae>
+</frog>
+<salamander>
+<newt>
+<Newster age="2" weight="16"><Newster>
+</newt>
+<firebellynewt>
+<Ring age="5" weight="20"><Ring>
+</firebellynewt>
+<proteidae>
+<Strong age="3" weight="15"><Strong>
+</proteidae>
+</salamander>
+<caecilian>
+<rhinatrematidae>
+<Teresa age="4" weight="10"><Teresa>
+</rhinatrematidae>
+<caeciliidae>
+<Natasha age="2" weight="15"><Natasha>
+</caeciliidae>
+<ichthyophis>
+<Itchy age="6" weight="18"><Itchy>
+</ichthyophis>
+</caecilian>
+</amphibian>
+<reptile>
+<crocodile>
+<nilecrocodile>
+<Nile age="9" weight="120"><Itchy>
+</nilecrocodile>
+<crocodylus>
+<Cro age="11" weight="130"><Cro>
+</crocodylus>
+<saltwatercrocodile>
+<Salty age="24" weight="140"
+</saltwatercrocodile>
+</crocodile>
+<gecko>
+<crestedgecko>
+<Crest age="23" weight="10"
+</crestedgecko>
+<gargoylegecko>
+<Jar age="24" weight="15"
+</gargoylegecko>
+<ashygecko>
+<Ash age="10" weight="7"
+</ashygecko>
+</gecko>
+<snake>
+<cobra>
+<Sting age="30" weight="100"
+</cobra>
+<mamba>
+<Ma age="32" weight="120"
+</mamba>
+<viper>
+<Wipe age="12" weight="133"
+</viper>
+</snake>
+</reptiles>		
+</animals>	
